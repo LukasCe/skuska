@@ -1,2 +1,2 @@
 # skuska
-skusam upravu.
+skusam upravu..
